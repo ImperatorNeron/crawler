@@ -42,7 +42,7 @@ poetry install
 
 ## Configuration
 
-1. Default input file location `github_crawler/inputs/input.json` (With example, unstanble but free proxies)  
+Default input file location `github_crawler/inputs/input.json` (With example, unstanble but free proxies)  
    Example structure(fake proxies):
 ```json
 {
@@ -52,7 +52,7 @@ poetry install
 }
 ```
 
-1. Supported Search Types ("type"):
+Supported Search Types ("type"):
 - `Repositories`
 - `Issues`
 - `Wikis`
